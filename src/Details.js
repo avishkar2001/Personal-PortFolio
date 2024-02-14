@@ -107,7 +107,7 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "JigarWala WorkOut: WorkOuts Made Simple",
     image: projectImage1,
     description: `JigarWala Workout: Simplifying fitness routines with an easy-to-use MERN Stack application for streamlined and effective workouts.`,
     techstack: "HTML/CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB",
@@ -123,7 +123,7 @@ export const projectDetails = [
     githubLink: "https://github.com/avishkar2001/Sortify",
   },
   {
-    title: "Project title 3",
+    title: "PlateScan: Effortless License Plate Recognition",
     image: projectImage3,
     description: `ANPR: Achieve seamless Automatic Number Plate Detection with Python, Flask, and API integration for efficient license plate recognition.`,
     techstack: "HTML/CSS, JavaScript",
